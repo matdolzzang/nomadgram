@@ -12,10 +12,7 @@
 
 #### JJOO2
 
-<<<<<<< HEAD
 #### "오늘은 어린이날"
-=======
 #### Thank you
 
->>>>>>> master
 nomadgram using django and react
